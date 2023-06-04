@@ -1,2 +1,15 @@
 Nome: Iuri Bernardino
 Idade: 20 anos
+
+Rotina: 
+
+SEG a SEX:
+-Acordo 7:20 AM.
+-Vou para o trabalho às 8:00 AM.
+-Vou almoçar às 11:00 AM.
+-Volto ao trabalho às 12:30 PM.
+-Saio do trabalho às 17:30 PM.
+-Estudo programação das 18:00 PM às 20:00 PM.
+-Vou para a academia às 20:10 PM.
+-Volto para a casa às 22:00 PM.
+-Vou dormir após jantar às 23:00 PM.
